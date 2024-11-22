@@ -1,0 +1,57 @@
+name: rachell.skiles
+description: value-added
+version: 0.90.719
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: rachellskiles
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:05:25'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:05:25'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:05:25.191288Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '431829774'
+  createdAt: '2024-11-22T23:05:25.191288Z'
+  type: plibMaven
+projectDependencies:
+  '177':
+    projectUID: 177
+    projectName: fermin.berge
+    repositoryPath: gitUri=http://gitserver:3000/dev_SegZpAeC_team_289/dev_SegZpAeC_project_177.git&subPath=
+    version: fermin.berge/6.0.1.689
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 23:05:23'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
